@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://munawarnazir.vercel.app/sitemap.xml
